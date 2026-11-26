@@ -1,0 +1,25 @@
+
+# Environment files
+.env
+.env.*
+
+# Database dumps and backups
+*.sql
+*.bak
+*.old
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+/vendor/
+/node_modules/
